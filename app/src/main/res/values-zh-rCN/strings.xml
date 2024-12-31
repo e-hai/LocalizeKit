@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">加载中</string>
+    <string name="do_not_exit">请勿退出应用</string>
+    <string name="start_downloading">开始下载</string>
+    <string name="downloading_finish">下载完成</string>
+    <string name="generate_succeed">生成成功！</string>
+    <string name="current_image_download">当前有图片下载中</string>
+    <string name="rests_image_generate_loading">其他照片处于生成中，请稍后尝试</string>
+    <string name="human_use">人使用</string>
+    <string name="my_image">我的照片</string>
+    <string name="gender">性别</string>
+    <string name="keep_at_least_one_image">至少保留一张照片</string>
+    <string name="finish">完成</string>
+    <string name="man">男</string>
+    <string name="girl">女</string>
+    <string name="ok_str">OK</string>
+    <string name="please_click">请点击</string>
+    <string name="click_upload_image">点击上传你的照片</string>
+    <string name="do_you_like_prookie">你喜欢Prookie吗？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="confirm_selection">确认选择</string>
+    <string name="one_image_generate_all_album">只需一张照片就能生成所有写真专辑</string>
+    <string name="look_video_unlock">看视频解锁</string>
+    <string name="current_model_effect_click_generate">当前为模特效果，点击下方按钮生成我的照片</string>
+    <string name="try_myself">试试我自己</string>
+    <string name="unlock_my_image">解锁生成你的照片</string>
+    <string name="generate_loading_wait">生成中，请稍等几分钟</string>
+    <string name="generate_my_image">生成我的照片</string>
+    <string name="generate_loading">生成中</string>
+</resources>
